@@ -7,8 +7,7 @@
         {
             "name": "Kane",
             "email": "mariocisco@163.com"
-        },
-       
+        }
     ],
     "require": {
         "php": ">=5.5.0",
