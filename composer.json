@@ -1,25 +1,14 @@
 {
-    "name": "zizaco/entrust",
+    "name": "kane/entrust-entend",
     "description": "This package provides a flexible way to add Role-based Permissions to Laravel",
     "keywords": ["laravel","illuminate","auth","roles","acl","permission"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Zizaco Zizuini",
-            "email": "zizaco@gmail.com"
+            "name": "Kane",
+            "email": "mariocisco@163.com"
         },
-        {
-            "name": "Andrew Elkins",
-            "homepage": "http://andrewelkins.com"
-        },
-        {
-            "name": "Ben Batschelet",
-            "homepage": "http://github.com/bbatsche"
-        },
-        {
-            "name": "Michele Angioni",
-            "email": "michele.angioni@gmail.com"
-        }
+       
     ],
     "require": {
         "php": ">=5.5.0",
